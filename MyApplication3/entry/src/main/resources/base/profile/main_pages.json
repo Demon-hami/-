@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/welcome",
+    "pages/Index",
+    "pages/Auth",
+    "pages/CloudDb/DbInsert",
+    "pages/Page2",
+    "pages/Home",
+    "pages/KF"
+  ]
+}
